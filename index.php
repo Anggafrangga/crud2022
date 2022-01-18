@@ -113,7 +113,7 @@
 <h1 class="text-center">WEB ANGGA</h1>
 <h2 class="text-center">Angga Pangandaheng</h2>
 
-<!-- Awal Card Fo -->
+<!-- Awal Card F -->
 <div class="card mt-3">
   <div class="card-header bg-primary text-white">
     Form Input Data Mahasiswa
